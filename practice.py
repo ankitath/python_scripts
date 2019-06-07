@@ -1,0 +1,6 @@
+hrs = input("hours")
+#float(hrs)
+rph = input("rate per hours")
+#float(rph)
+gross_pay = float(hrs)*float(rph)
+print(gross_pay)
